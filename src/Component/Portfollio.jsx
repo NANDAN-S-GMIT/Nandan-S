@@ -40,7 +40,7 @@ const Portfolio = () => {
 
   const projects = [
 
-    { id: 4, title: "Chessboard", description: "A digital chessboard with an 8x8 grid for casual or multiplayer play.", image: "https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/Main%20page.png?raw=true", tags: ["Html", "CSS"], category: "clone", github: "https://github.com/" },
+    { id: 4, title: "Chessboard", description: "A digital chessboard with an 8x8 grid for casual or multiplayer play.", image: "https://github.com/NANDAN-S-GMIT/images/blob/main/Main%20page.png?raw=true", tags: ["Html", "CSS"], category: "clone", github: "https://github.com/" },
     { id: 5, title: "Kidz World Clone", description: "A kid-friendly website replica with games and educational content.", image: "https://github.com/NAGESHJAGTAP/full_stack_web_development_personal_Portfollio/blob/main/portfollio/src/assets/Kids.png?raw=true", tags: ["Html", "CSS"], category: "clone", github: "https://github.com/" },
     { id: 6, title: "Calculator", description: "A responsive calculator supporting basic arithmetic operations.", image: "https://github.com/NAGESHJAGTAP/full_stack_web_development_personal_Portfollio/blob/main/portfollio/src/assets/Calculater.png?raw=true", tags: ["Html", "CSS"], category: "clone", github: "https://github.com/" },
     { id: 7, title: "Sudoku", description: "An interactive Sudoku game with an easy-to-use interface.", image: "https://github.com/NAGESHJAGTAP/full_stack_web_development_personal_Portfollio/blob/main/portfollio/src/assets/sudoku.png?raw=true", tags: ["Html", "CSS"], category: "clone", github: "https://github.com/" },
